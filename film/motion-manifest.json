@@ -1,0 +1,26 @@
+{
+  "title": "Halftime Bass",
+  "study": "hb01",
+  "bpm": 168,
+  "source_audio": "preview/halftime-bass-simple-synth-preview.mp3",
+  "source_audio_sha256": "80cab8eb8be8a02d821c46303a12bc0d495575dbeb909ba58f551b36c6fec0bd",
+  "source_midi": "midi/hb01-half-light/hb01-half-light-combined.mid",
+  "source_midi_sha256": "abac2084f72ad8d32fa7a1596430f3c06faf68439ccbb2db0b458240fdcc9e6c",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "d0b76d35294ccff841aa7d54929fde2f10cbf9a423d456a12c5524b32059474e",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "df477c2fa55cac19a91039b724f450009df34f95c8f17477f751a651883a07b0",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "9c9f68c46cf966f7dc44bbb1945a72e5afce7ea0e13fa8aad4e28b9a0334097a",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

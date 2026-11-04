@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "halftime-bass",
+  "display_name": "Halftime Bass Studies",
+  "brief_name": "Halftime Bass",
+  "creative_intention": "Spacious original low-end arrangements with a slower perceived phrase pace.",
+  "rhythmic_direction": "Spacious low-end cells use a slow perceived phrase pace against exact fast-grid timing.",
+  "palette": "Low bass, concise harmony, monophonic lead, sparse answer voice and texture.",
+  "guardrail": "The title identifies a writing constraint, not a claim about a scene or recording practice.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack halftime-bass",
+  "actual_tempo_bpm": 168,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "hb01",
+      "title": "Half Light",
+      "tonic": "F",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "hb02",
+      "title": "Wide Floor",
+      "tonic": "G#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "hb03",
+      "title": "Slow Signal",
+      "tonic": "B",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "hb04",
+      "title": "Deep Return",
+      "tonic": "F#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

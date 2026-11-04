@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3139,
+      "sha256": "69a5fbe40ab4b3ed5cd03164be2bfbac58c949311acd9e4f7f35747f8161bca7"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1591,
-      "sha256": "4573110b2c4f8b505fa2800b19ae28d091bd692c48e0f69a34c8efe1dc607718"
+      "bytes": 1813,
+      "sha256": "2746cd57ca153ab73fd25a21daaba215ebe157ee39abbf5d40fa1b2b76dbf789"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/halftime-bass-midi.zip",
-      "bytes": 34863,
-      "sha256": "d44e769ee2872ffd256472ee913d30a54227627d73b7762ac4d2c3ab700a50a8"
+      "bytes": 36371,
+      "sha256": "5db307c2e7764b2c131dfe33ce1d7d99d4fb7700b910a5f40419dc5613e26ab4"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1041,
-      "sha256": "0973ecf65b4c04dcf86fd66a6569a10d3e7c14704620dfa86e2eb33e032b22c1"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2978,
-      "sha256": "e8493694fde156bbdc257257d738cb4ff5af0c8dc3533681253b06cd335d4b57"
+      "bytes": 1124,
+      "sha256": "5d65276501c6292439c7a42bb6882b9e58b1fc96ed0f3f21540d8006ffd41c05"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",

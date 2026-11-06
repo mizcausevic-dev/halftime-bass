@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/halftime-bass-simple-synth-preview.mp3",
-  "preview_sha256": "80cab8eb8be8a02d821c46303a12bc0d495575dbeb909ba58f551b36c6fec0bd",
+  "preview_sha256": "a32518b5c9f4cc13ebd1df93be9438050f6bfcba5fb01c8cf12652710a13dbe1",
   "source_midi_path": "midi/hb01-half-light/hb01-half-light-combined.mid",
-  "source_midi_sha256": "abac2084f72ad8d32fa7a1596430f3c06faf68439ccbb2db0b458240fdcc9e6c",
+  "source_midi_sha256": "cb225556ff632113e88ed39e9417046ea859463be12a58f38e097825c9a2493b",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 45.714
   },
   "measurement": {
-    "sample_peak": 0.138817,
+    "sample_peak": 0.136853,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

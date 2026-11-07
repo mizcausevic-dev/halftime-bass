@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/halftime-bass-midi.zip",
-      "bytes": 32729,
-      "sha256": "3a162ba78c98ce916c34e5664828f9823d15c538612e8b35c8864009664c9ce9"
+      "bytes": 35327,
+      "sha256": "ad258a38a177f84e8fbdb2fce8ccdaaf44c2f292e18a742da10f3c70e161e8ea"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10283,
-      "sha256": "fcef0805583f8d3a6f27c007408a6995b8e8b674a0fd1e09313075517cb557c3"
+      "bytes": 10473,
+      "sha256": "cb4d263ae2607ae93ac35524befe4c1257d1dfa5ce2089d8eb1ac6908bc9c691"
     },
     {
       "path": "midi/hb01-half-light/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "b7118a6ff89be5ee3b8543b1fde5ab217a0aefc421ee79094e9838c90fa6746f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 784,
       "sha256": "980223aec8fbbd0bea9cbe2c9bb7f080c70551af46348aac2e032fcc27e0c142"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3357,
-      "sha256": "0a839ba0315b7857414b4273f876e0a9ec76b60db927e6d9d421c442c4dfbc53"
+      "bytes": 3472,
+      "sha256": "1c579498d6d45d65622350d8a117c4988f5609065dcb15090e19a66c83da9f91"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
